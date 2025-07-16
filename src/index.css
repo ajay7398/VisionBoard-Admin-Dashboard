@@ -1,0 +1,15 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+@import "tailwindcss";
+body{
+    background: rgb(240, 242, 245);
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 1.25rem;
+}
+
+*{
+    font-family: Roboto;
+    box-sizing: border-box;
+}
