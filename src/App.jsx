@@ -1,6 +1,6 @@
 import React from 'react'
 import Header from './components/Header.jsx'
-import GraphCardSection from './components/graphCardSection.jsx'
+import GraphCardSection from './components/GraphCardSection.jsx'
 import Projects from './components/Projects.jsx'
 import Orders from './components/Orders.jsx'
 import Footer from './components/Footer.jsx'

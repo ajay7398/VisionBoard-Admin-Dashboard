@@ -11,4 +11,4 @@ function GraphCardSection() {
   )
 }
 
-export default GraphCardSection
+export default GraphCardSection;
