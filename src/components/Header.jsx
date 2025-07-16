@@ -150,7 +150,7 @@ function Header() {
               />
 
               {/* Icon Container - wraps on small screens */}
-              <div className="box-border flex text-slate-600 items-center flex-wrap  gap-4  rounded-lg shrink basis-[30%] md:grid md:grid-cols-2 md:basis-[20%] lg:flex lg:basis-[30%] lg:justify-netween ">
+              <div className="box-border flex text-slate-600 items-center flex-wrap  gap-4  rounded-lg shrink basis-[30%] md:grid md:grid-cols-2 md:basis-[20%] lg:flex lg:basis-[40%] lg:justify-netween ">
                 <IoPersonCircle className="text-[1.6rem] " />
                 <MdMenuOpen onClick={() => setToggle(!toggle)} className="text-[1.6rem] " />
                 <IoMdSettings className="text-[1.6rem] " />
