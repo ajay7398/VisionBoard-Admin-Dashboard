@@ -1,5 +1,5 @@
 import React from 'react'
-import data from '../data/dashboardCards.js'
+import data from '../data/dashboardCardsData.js'
 import Card from './Card.jsx'
 function DashboardCards() {
   return (
@@ -13,4 +13,4 @@ return <Card item={item} key={index}/>
   )
 }
 
-export default DashboardCards
+export default DashboardCards;

@@ -4,14 +4,14 @@ import GraphCardSection from './components/graphCardSection.jsx'
 import Projects from './components/Projects.jsx'
 import Orders from './components/Orders.jsx'
 import Footer from './components/Footer.jsx'
-import DashboardCards from './components/dashboardCards.jsx'
+import DashboardCard from './components/DashboardCards.jsx'
 
 function App() {
    
   return (
      <div className='conainer max-w-[90%] mx-auto box-border relative'>
       <Header/>
-    <DashboardCards/>
+    <DashboardCard/>
     <GraphCardSection/>
     <div className='lg:flex lg:items-center lg:gap-8'>
   <Projects className='h-screen'/>

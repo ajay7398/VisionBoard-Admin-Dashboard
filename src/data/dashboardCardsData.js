@@ -5,7 +5,7 @@ import {
   MdPersonAddAlt
 } from "react-icons/md";
 
- const dashboardCards = [
+ const dashboardCardsData = [
   {
     icon: MdOutlineWeekend,
     iconBg: "bg-black",
@@ -44,4 +44,4 @@ import {
   }
 ];
 
-export default dashboardCards;
+export default dashboardCardsData;
